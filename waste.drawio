@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-13T21:51:46.133Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="thU5NTL-lI98p6LWjkBj" version="15.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-13T22:14:46.307Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="3cO96McT5NEp-MDtiwU7" version="15.5.0" type="github">
   <diagram id="aWTfZL2IYYn4WqkGpc-u" name="Page-1">
     <mxGraphModel dx="1736" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -221,6 +221,24 @@
         </mxCell>
         <mxCell id="472JnLw3rFI74FyERyaQ-55" value="&lt;font face=&quot;b nazanin&quot; style=&quot;font-size: 34px&quot;&gt;نیروگاه خورشیدی (سولار شناوری)&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=4;align=center;textDirection=rtl;" vertex="1" parent="1">
           <mxGeometry x="70" y="80" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="472JnLw3rFI74FyERyaQ-60" value="آب" style="line;strokeWidth=4;html=1;fontFamily=b nazanin;fontSize=34;align=center;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;strokeColor=#9999FF;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="660" width="160" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="472JnLw3rFI74FyERyaQ-64" value="فاضلاب" style="line;strokeWidth=4;html=1;fontFamily=b nazanin;fontSize=34;align=center;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;strokeColor=#FF0080;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="820" width="160" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="472JnLw3rFI74FyERyaQ-65" value="زباله" style="line;strokeWidth=4;html=1;fontFamily=b nazanin;fontSize=34;align=center;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="780" width="160" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="472JnLw3rFI74FyERyaQ-66" value="غذا" style="line;strokeWidth=4;html=1;fontFamily=b nazanin;fontSize=34;align=center;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;strokeColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="700" width="160" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="472JnLw3rFI74FyERyaQ-67" value="کود" style="line;strokeWidth=4;html=1;fontFamily=b nazanin;fontSize=34;align=center;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;strokeColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="740" width="160" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="472JnLw3rFI74FyERyaQ-68" value="انرژی" style="line;strokeWidth=4;html=1;fontFamily=b nazanin;fontSize=34;align=center;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;strokeColor=#FF2908;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="860" width="160" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
